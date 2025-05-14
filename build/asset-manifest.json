@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.cfa7613d.css",
-    "main.js": "/static/js/main.f5b3c316.js",
-    "index.html": "/index.html",
-    "main.cfa7613d.css.map": "/static/css/main.cfa7613d.css.map",
-    "main.f5b3c316.js.map": "/static/js/main.f5b3c316.js.map"
+    "main.css": "/JinhyungJeon-dadog-wireframe-public/static/css/main.cfa7613d.css",
+    "main.js": "/JinhyungJeon-dadog-wireframe-public/static/js/main.f5b3c316.js",
+    "index.html": "/JinhyungJeon-dadog-wireframe-public/index.html",
+    "main.cfa7613d.css.map": "/JinhyungJeon-dadog-wireframe-public/static/css/main.cfa7613d.css.map",
+    "main.f5b3c316.js.map": "/JinhyungJeon-dadog-wireframe-public/static/js/main.f5b3c316.js.map"
   },
   "entrypoints": [
     "static/css/main.cfa7613d.css",
